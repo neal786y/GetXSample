@@ -15,7 +15,7 @@ Use Flutter 3.x to build a set of features containing predefined folder structur
 Fork this project to your own warehouse:
 
 ```
-git clone https://github.com/KevinZhang19870314/flutter_getx_boilerplate.git
+git clone https://github.com/neal786y/GetXSample.git
 ```
 
 **Step 2:**
